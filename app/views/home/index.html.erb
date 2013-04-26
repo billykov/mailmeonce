@@ -1,0 +1,9 @@
+<h1>Mail Me Once! home page </h1>
+<%= form_tag(url_for(:controller => 'users', :action => "create"), :remote => true) do %>
+    <%= label_tag(:name) %>
+    <%= text_field_tag :name,'', :placeholder => "Enter your user name" %>
+    <%= label_tag(:email) %>
+    <%= email_field_tag :email,'', :placeholder => "Enter your email" %>
+    <%= submit_tag 'create account' %>
+<% end %>
+<div id="response"></div>
