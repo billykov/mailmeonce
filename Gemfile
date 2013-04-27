@@ -8,6 +8,7 @@ gem 'rails', '3.2.11'
 gem 'mysql2', '= 0.3.11'
 gem 'pg'
 gem 'admin_data', '= 1.2.1'
+gem 'sendgrid'
 
 # Gems used only for assets and not required
 # in production environments by default.
