@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee96b680-b95f-4799-818f-b4123f00e522" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/mailer.rb" afterPath="$PROJECT_DIR$/app/models/mailer.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mailmeonce.iml" afterPath="$PROJECT_DIR$/.idea/mailmeonce.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mailmeonce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,19 +117,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="70" selection-end="82" vertical-scroll-proportion="0.0">
+            <state line="2" column="4" selection-start="57" selection-end="57" vertical-scroll-proportion="0.099378884">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notifier.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="notifier.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/notifier.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.29813665">
+            <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -184,8 +176,8 @@
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environment.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/notifier.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
       </list>
     </option>
   </component>
@@ -873,11 +865,6 @@
           <url>file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionpack-3.2.11/lib/action_view/helpers/form_helper.rb</url>
           <line>360</line>
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/app/controllers/home_controller.rb</url>
-          <line>3</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="13" />
     </breakpoint-manager>
@@ -981,16 +968,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/notifier.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="70" selection-end="82" vertical-scroll-proportion="0.0">
+        <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/notifier.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.29813665">
+        <state line="2" column="4" selection-start="57" selection-end="57" vertical-scroll-proportion="0.099378884">
           <folding />
         </state>
       </provider>
