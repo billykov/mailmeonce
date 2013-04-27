@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee96b680-b95f-4799-818f-b4123f00e522" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/mailer.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mailmeonce.iml" afterPath="$PROJECT_DIR$/.idea/mailmeonce.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
     </list>
     <ignored path="mailmeonce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,16 +100,25 @@
       <file leaf-file-name="mailer.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/mailer.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+            <state line="5" column="6" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="instrumentation.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionmailer-3.2.11/lib/action_mailer/base.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="617" column="8" selection-start="27515" selection-end="27515" vertical-scroll-proportion="-0.6614907">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instrumentation.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionpack-3.2.11/lib/action_controller/metal/instrumentation.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.30745342">
+            <state line="32" column="0" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,7 +127,7 @@
       <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.0">
+            <state line="53" column="50" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,7 +165,6 @@
         <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/users.js" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/controllers/get_mails_controller.rb" />
@@ -172,6 +175,7 @@
         <option value="$PROJECT_DIR$/app/models/mailer.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
       </list>
     </option>
   </component>
@@ -844,23 +848,11 @@
           <line>2</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/app/models/mailer.rb</url>
-          <line>5</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/mails/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="31" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130427092812_create_mails.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -896,13 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="26" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
@@ -913,20 +898,6 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="80" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/mailer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -961,7 +932,35 @@
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionpack-3.2.11/lib/action_controller/metal/instrumentation.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.30745342">
+        <state line="32" column="0" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="50" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/mailer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionmailer-3.2.11/lib/action_mailer/base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="617" column="8" selection-start="27515" selection-end="27515" vertical-scroll-proportion="-0.6614907">
           <folding />
         </state>
       </provider>

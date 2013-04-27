@@ -48,6 +48,7 @@ class UsersController < ApplicationController
     @user = User.new(params[:user])
     respond_to do |format|
       if @user.save
+        Mailer.forward_mail("billykov@gmail.com");
         format.html { render action: "new" }
         format.json { render :json => {:code => 200, :message => "ok"} }
       else
