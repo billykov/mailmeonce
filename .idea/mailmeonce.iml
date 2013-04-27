@@ -50,9 +50,8 @@
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.2.11, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.0.4, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.7, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.8, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.6, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sendgrid (v1.1.0, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.2.2, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.7, RVM: ruby-2.0.0-p0 [mailmeonce]) [gem]" level="application" />
