@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ee96b680-b95f-4799-818f-b4123f00e522" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
     </list>
     <ignored path="mailmeonce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +59,7 @@
     <file path="/mails_controller.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367055402786" ignored="false" />
     <file path="/environment.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367072071304" ignored="false" />
     <file path="/mailer.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367057012755" ignored="false" />
-    <file path="/home_controller.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367072243731" ignored="false" />
+    <file path="/home_controller.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367072891534" ignored="false" />
     <file path="/production.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367058527492" ignored="false" />
     <file path="/development.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367069949875" ignored="false" />
     <file path="/notifier.rb" changelist="ee96b680-b95f-4799-818f-b4123f00e522" time="1367072608555" ignored="false" />
@@ -117,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="57" selection-end="57" vertical-scroll-proportion="0.099378884">
+            <state line="2" column="5" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,6 +131,24 @@
         <entry file="file://$PROJECT_DIR$/app/models/notifier.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="68" column="2" selection-start="2533" selection-end="2533" vertical-scroll-proportion="0.80936456">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="51" selection-start="674" selection-end="723" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,7 +188,6 @@
         <option value="$PROJECT_DIR$/app/controllers/mails_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/models/mailer.rb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
@@ -178,6 +196,7 @@
         <option value="$PROJECT_DIR$/config/environment.rb" />
         <option value="$PROJECT_DIR$/app/models/notifier.rb" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -884,13 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="46" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.8662207">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p0@mailmeonce/gems/actionpack-3.2.11/lib/action_controller/metal/instrumentation.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.30745342">
@@ -901,13 +913,6 @@
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="4" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.45341614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="2" selection-start="727" selection-end="727" vertical-scroll-proportion="0.44594595">
           <folding />
         </state>
       </provider>
@@ -968,6 +973,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/notifier.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="43" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
@@ -975,9 +987,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="57" selection-end="57" vertical-scroll-proportion="0.099378884">
+        <state line="16" column="51" selection-start="674" selection-end="723" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="2" selection-start="2533" selection-end="2533" vertical-scroll-proportion="0.80936456">
           <folding />
         </state>
       </provider>
