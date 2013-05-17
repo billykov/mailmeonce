@@ -112,7 +112,6 @@ DEPENDENCIES
   admin_data (= 1.2.1)
   coffee-rails (~> 3.2.1)
   jquery-rails
-  mail
   mysql2 (= 0.3.11)
   pg
   rails (= 3.2.11)
